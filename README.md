@@ -1,4 +1,4 @@
-# agterm-image-gallery
+# agterm-claude-images
 
 See the images in your Claude Code conversations right inside [agterm](https://github.com/umputun/agterm).
 
@@ -23,8 +23,8 @@ Newest image first, in the terminal's theme colours.
 ## Install
 
 ```sh
-git clone <this repo> agterm-image-gallery
-cd agterm-image-gallery
+git clone https://github.com/vlondon/agterm-claude-images.git
+cd agterm-claude-images
 ./install.sh
 ```
 
