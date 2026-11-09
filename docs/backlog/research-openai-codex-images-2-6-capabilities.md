@@ -3,7 +3,7 @@ worth: yes
 added: 2026-11-05
 ticket: AGTERMCL-1
 who: ai
-status: todo
+status: approved
 priority: P2
 workstream: product
 size: S
