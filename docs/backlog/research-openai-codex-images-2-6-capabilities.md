@@ -3,11 +3,12 @@ worth: yes
 added: 2026-11-05
 ticket: AGTERMCL-1
 who: ai
-status: todo
+status: in-progress
 priority: P2
 workstream: product
 size: S
 source: drop
+branch: mgr/agtermcl-1-research-openai-codex-images-2-6-capabilities
 ---
 # Research OpenAI Codex Images 2.6 capabilities
 
